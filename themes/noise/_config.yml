@@ -2,7 +2,7 @@
 menu:
   ## If your site is put in a subdirectory, set Home as '/child/'
   Home: /
-  归档: archives
+  Archives: archives
 
 social:
   email:
@@ -10,7 +10,7 @@ social:
   weibo:
   github:
   googleplus:
-  rss: /atom.xml
+  # rss: /atom.xml
 
 # Content
 fancybox: true # set to true if you want to use it
